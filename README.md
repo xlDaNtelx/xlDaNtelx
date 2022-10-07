@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xlDaNtelx
+- 👀 I’m interested in JS
+- 🌱 I’m currently learning DevOps stuff
+- 💞️ I’m looking to collaborate on **mobX**
+- 📫 How to reach me - WIP
